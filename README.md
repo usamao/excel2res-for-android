@@ -7,7 +7,7 @@ So you don't have to create csv file on ahead.
 ## How to use
 
 1. Open excel sheet which you want to convert
-1. Execute excel2res.app
+1. Execute excel2res.app downloaded from [release page](https://github.com/usamao/excel2res-for-android/releases)
 1. Select output directory in GUI
 
 ## Excel sheet format
